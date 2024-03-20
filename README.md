@@ -1,2 +1,6 @@
+#1. 조명 : CS
+#2. 조원 : 김승태, 한지상, 이채은
+#3. 작품명: 간이 건강 검사기
 
-[건강 간이 검사기.pptx](https://github.com/kst0626/stkim/files/14664996/default.pptx)
+
+
